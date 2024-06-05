@@ -1,2 +1,2 @@
 # Foodie-App
-Poorivi madam u write ur project description here
+FoodZie is a mobile app designed to make ordering food from favorite restaurants quick and convenient. It features an intuitive interface, diverse restaurant options, advanced search filters, and real-time order tracking. Secure payment options include credit/debit cards, mobile wallets, and cash on delivery. Personalized recommendations and exclusive deals enhance user experience. The project will use React Native or Flutter for frontend and Node.js with MongoDB or PostgreSQL for backend. Comprehensive testing and 24/7 customer support ensure reliability. FoodZie aims to set a new standard in mobile food ordering with a focus on user experience and convenience.
